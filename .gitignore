@@ -1,0 +1,5 @@
+.idea
+TestResults
+bin
+obj
+**/*.DotSettings.user
